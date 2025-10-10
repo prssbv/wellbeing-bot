@@ -1,0 +1,38 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+# ---- Python basics ----
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# ---- Virtual envs ----
+.venv/
+env/
+venv/
+
+# ---- OS/editor junk ----
+.DS_Store
+Thumbs.db
+.vscode/
+
+# ---- Secrets & local config ----
+.env
+*.env
+
+# ---- Data & logs (local only) ----
+*.csv
+data/*.csv
+logs/
+*.log
+
+# ---- Notebooks (optional) ----
+.ipynb_checkpoints/
+
+# ---- Streamlit ----
+.streamlit/
+
+
+

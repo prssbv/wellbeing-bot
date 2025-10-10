@@ -1,0 +1,5 @@
+streamlit
+openai==1.*
+langdetect
+pandas
+python-dotenv
